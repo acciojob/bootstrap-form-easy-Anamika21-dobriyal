@@ -11,6 +11,8 @@ form{
 	display: flex;
 	flex-direction: column;
 	justify-content:center;
+	align-content: center;
+	align-items: center;
     gap: 10px;
 	padding: 20px;
 }
@@ -22,3 +24,6 @@ input,select,button{
 button{
 	background-color: lightcoral
 }
+/* #first-name-input,#last-name-input,#email-input,#college-input,#year,#roll-no-input{
+	margin-left: 220px;
+} */
