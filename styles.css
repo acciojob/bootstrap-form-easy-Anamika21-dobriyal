@@ -1,29 +1,9 @@
 
 /* Your CSS Code here. */
-*{
-	background-color: lightgray
-}
-h1{
-	text-align: center;
-	margin-bottom: 40px;
-}
-form{
-	display: flex;
-	flex-direction: column;
-	justify-content:center;
-	align-content: center;
-	align-items: center;
-    gap: 10px;
-	padding: 20px;
-}
-input,select,button{
-	width: 60%;
-	padding: 10px;
-}
 
-button{
-	background-color: lightcoral
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 60%;
 }
-/* #first-name-input,#last-name-input,#email-input,#college-input,#year,#roll-no-input{
-	margin-left: 220px;
-} */
